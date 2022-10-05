@@ -33,7 +33,7 @@ export default function AddTask() {
   };
 
   return (
-    <div className="w-[90%] border border-[dodgerblue] rounded-md">
+    <div className="w-[100%] border border-[dodgerblue] rounded-md">
       {isNewTask ? (
         <form onSubmit={submitHandler} className="flex flex-row w-[100%] justify-end pr-5 items-center align-middle gap-3 ms:gap-5">
           <div className="grow pl-10 flex flex-col gap-5 pt-5 pb-5">
