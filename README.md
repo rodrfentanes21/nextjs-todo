@@ -1,3 +1,7 @@
+# UNFINISHED Nextjs Todo App
+
+Maybe i will turn it into something else later...
+
 ### Still have to add
 
 - delete and edit button functions
